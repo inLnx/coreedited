@@ -1,13 +1,7 @@
 
+V1
 
-      
-    ( '>')  Core is distributed with ABSOLUTELY NO WARRANTY.
-   /) TC (\       A Busybox & Fltk minimal desktop.
-  (/-_--_-\)           www.tinycorelinux.com
-                                                                      
-Version 14.0
-
-Welcome to Core Plus. This is a collection of extensions
+Welcome to coreedited. This is a collection of extensions
 to help get started with Core linux. It is not intended to be a 
 replacement for our distribution. 
 
